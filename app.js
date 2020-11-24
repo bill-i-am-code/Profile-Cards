@@ -1,4 +1,4 @@
-const heading = 'Please Meet Out Team'
+const heading = 'Please Meet Our Team'
 let i = 0;
 console.log(heading.length);
 const typing = () =>{
